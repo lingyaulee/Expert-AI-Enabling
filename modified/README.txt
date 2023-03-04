@@ -8,7 +8,8 @@ YOLOv5 object detection was used on the butterfly video. The pre-trained model d
 With the newly trained model, I was able to make the inferences on the butterfly video.  To count the butterflies, I saved the log which was outputted in Anaconda prompt which I saved under the folders: lingyaulee/Expert-AI-Enabling/modified/inference_log.txt.  
 The file 'counter.ipynb', loops through the inference_log.txt file and outputs the number of butterflies in 'count_by_frame.csv' for every frame in the video.  
 
-The code in 'Video Generator' generates a new video with the butterfly count printed on screen.  Final output file with butterfly count is 'out_test.mp4' and emailed separately because it could not uploaded on Github as it is over the limit.  
+The code in 'Video Generator' generates a new video with the butterfly count printed on screen.  Final output file with butterfly count is 'out_test.mp4' can be accessed in: https://drive.google.com/file/d/12kIRv7lAnpZ0zOsOmIZVLcp_NeqX7vwj/view
+The video cannot be uploaded in Github due to the size limit.  
 
 Due to some other unforeseen activies, I was only able to finish this part of the assignment. However, I look foward to tackling more AI projects in the future.  Thank you.  
 
